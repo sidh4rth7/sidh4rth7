@@ -76,8 +76,6 @@ Freelancer in Upworks and Fiverr
 ### You can also find me on-
 
 [<img align="left" alt="Sidharth | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="Sidharth | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="Sidharth | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
 [<img align = "left" alt="Sidharth" width="30px" src="https://img.icons8.com/color/48/000000/gmail.png" />][gmail]
 
 
@@ -89,7 +87,7 @@ Freelancer in Upworks and Fiverr
 [linkedin]: https://www.linkedin.com/in/sidh4rth7/
 
 
-[gmail]: sidh4rth7@gmail.com
+[gmail]: mailto:sidh4rth7@gmail.com
 
 
 ----
