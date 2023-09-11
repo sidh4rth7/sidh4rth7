@@ -64,11 +64,11 @@ Freelancer in Upworks and Fiverr
 ### My Hobbies and interests -
 * Reading Books 
 * Listening to Songs 
-* Reading Research Papers 
+* Reading Research Papers
+* Gaming
+* Football
 
-### I'm listening on Spotify :
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3173rcdf4bxpwfv6jncckh4mwd2u&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=3173rcdf4bxpwfv6jncckh4mwd2u&redirect=true)
 
 
 
