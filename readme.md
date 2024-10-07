@@ -14,7 +14,8 @@
 
 <!-- work experience  -->
 ## Work Experience
-Robert Bosch Engineering and Business Solutions Private Limited
+ML Engineer @ Turiyatree Technologies
+EX Robert Bosch Engineering and Business Solutions Private Limited
 
 Freelancer in Upworks and Fiverr 
 
