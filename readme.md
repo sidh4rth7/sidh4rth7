@@ -20,11 +20,11 @@ EX Robert Bosch Engineering and Business Solutions Private Limited
 Freelancer in Upworks and Fiverr 
 
 ### About Me 
-* Master in Artificial intelligence and Machine Learning
+* Master's in Artificial intelligence and Machine Learning
 * Python developer
 * A data science Enthusiast
 * Love to solve problems 
-* A person who believes people should share knowledge! and would love to interact with people who have the similar interest. 
+* A person who believes people should share knowledge and would love to interact with people who have the similar interest. 
 * Also enjoy learning  about new Tech based stuffs!
 
  <!-- my work  -->
