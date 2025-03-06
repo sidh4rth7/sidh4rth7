@@ -6,8 +6,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sidharth&label=Profile%20views&color=0e75b6&style=flat" alt="Sidharth" /> </p>
 
-### Interested in 
-* Machine Learning and Deep Learning
+### Skilled In 
+* Machine Learning 
+* Deep Learning
+* Gen AI
+* MLops
 * NLP (Natural Language Processing)
 * Computer vision
 * Time Series Analysis
@@ -17,14 +20,13 @@
 ML Engineer @ Turiyatree Technologies
 EX Robert Bosch Engineering and Business Solutions Private Limited
 
-Freelancer in Upworks and Fiverr 
+*Freelancer* in Upworks and Fiverr 
 
 ### About Me 
 * Master's in Artificial intelligence and Machine Learning
 * Python developer
 * A data science Enthusiast
 * Love to solve problems 
-* A person who believes people should share knowledge and would love to interact with people who have the similar interest. 
 * Also enjoy learning  about new Tech based stuffs!
 
  <!-- my work  -->
